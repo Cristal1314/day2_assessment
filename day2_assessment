@@ -1,0 +1,5 @@
+name = (input("What is your name?"))
+print("Hello", name)
+num_comm= int(input("How much have you sold this month?"))
+print(str(num_comm*13/100))
+print ( f" ")
